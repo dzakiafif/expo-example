@@ -8,7 +8,7 @@ class App extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text style={styles.title}>lalala</Text>
+                <Text style={styles.title}>Ini React Native</Text>
             </View>
         );
     }
